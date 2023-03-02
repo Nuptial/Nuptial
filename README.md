@@ -30,7 +30,7 @@ Coming soon... 😎
 
 <p>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="50" src="[[//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png](https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png)">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640pxTypescript_logo_2020.svg.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbs;
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
