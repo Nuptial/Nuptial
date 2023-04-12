@@ -1,6 +1,6 @@
 ### Hi! I'm Alican. Welcome to my Github Profile 👋
 
-I'am a **Frontend Developer** in Ankara/Turkey
+I am a **Frontend Developer** in Ankara/Turkey
 
 ## 📖 About Me
 
