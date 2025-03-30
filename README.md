@@ -1,4 +1,4 @@
-### Hi! I'm Alican. Welcome to my Github Profile 👋
+### Hi! I'm Alican. Welcome to my Github Profile
 
 I am a **Frontend Developer** in Ankara/Turkey
 
